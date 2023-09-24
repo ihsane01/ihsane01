@@ -6,5 +6,3 @@ i am a passionate software engineering student 🎓 with a love for coding and p
 
  Don't hesitate to explore my repositories and get in touch. Happy coding! 🚀
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ihsane ben ajiba/)  
