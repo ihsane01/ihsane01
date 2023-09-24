@@ -1,4 +1,4 @@
-##Ihsane Ben Ajiba
+## Ihsane Ben Ajiba
 
 i am a passionate software engineering student 🎓 with a love for coding and problem-solving 💻. Welcome to my GitHub profile!
 
@@ -8,6 +8,3 @@ i am a passionate software engineering student 🎓 with a love for coding and p
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ihsane ben ajiba/)  
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsane01)](https://github.com/anuraghazra/github-readme-stats)
